@@ -57,10 +57,16 @@
 ###
 
 
-![charita's GitHub stats](https://github-readme-stats.vercel.app/api?username=charitabaru&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=charitabaru&locale=en&hide_title=false&layout=compact&card&langs_count=5&theme=radical&hide_border=false&order=2&)
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://leetcard.jacoblin.cool/charitabaru?theme=dark&font=Noto%20Sans" alt="LeetCode Stats" />
+## My Stats
+
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=charitabaru&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 400px;" />
+  
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/charitabaru?theme=dark&font=Noto%20Sans" alt="LeetCode Stats" style="width: 420px;" />
+
 </div>
 
 ###
