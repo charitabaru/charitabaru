@@ -77,29 +77,21 @@
 
 ###
 
-<div align="center">
-  <!-- Row for the 3 logos with a gap between them -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-    <a href="https://www.linkedin.com/in/charitabaru/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-    </a>
-    <a href="https://x.com/chimtiiiii" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-    </a>
-    <a href="mailto:charitasrichowdary@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-    </a>
-  </div>
-  
-  <!-- LeetCode logo with a gap above -->
-  <div style="margin-top: 50px; gap: 20px;">
-    <a href="https://leetcode.com/charitabaru/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-charitabaru-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" width="150 height=150" 
- />
-    </a>
-  </div>
-</div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/charitabaru/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/chimtiiiii" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="mailto:charitasribaru@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://leetcode.com/charitabaru/" target="_blank">
+    <img src="LeetCode.png" width="50" height="40" alt="LeetCode logo" />
+  </a>
+</div>
 
 
 ###
