@@ -57,7 +57,8 @@
 ###
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=charitabaru&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="195" />
+ <img src="https://github-readme-stats.vercel.app/api?username=vishalchennuri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charitabaru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="195" alt="languages graph" />
   <img src="https://leetcard.jacoblin.cool/charitabaru?theme=dark&font=Noto%20Sans" height="195" alt="LeetCode Stats" />
 </div>
