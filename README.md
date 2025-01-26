@@ -95,7 +95,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="38" alt="gmail logo"  />
   </a>
   <a href="https://leetcode.com/charitabaru/" target="_blank">
-    <img src="leetcodemode.png" width="50" height="39" alt="LeetCode logo" />
+    <img src="leetcodemode.png" width="38" height="39" alt="LeetCode logo" />
   </a>
 </div>
 
