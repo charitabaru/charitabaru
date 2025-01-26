@@ -1,5 +1,9 @@
 <h2 align="left">Hello World !! I'm Charita Sri Baru 👋</h2>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Love+Problem+Solving;Passionate+Learner" alt="Typing SVG" />
+</div>
+
 ###
 
 <h3 align="left">👾 About Me</h3>
@@ -13,6 +17,7 @@
   🎓 Pursuing B.Tech at BVRIT, diving deep into tech stacks and innovation.<br>
   💻 Studying DSA in JAVA, enhancing my algorithmic thinking and problem-solving skills.<br>
 </p>
+
 
 ###
 
@@ -43,6 +48,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
 
 ###
 
@@ -89,7 +95,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://leetcode.com/charitabaru/" target="_blank">
-    <img src="LeetCode.png" width="50" height="40" alt="LeetCode logo" />
+    <img src="leetcodemode.png" width="50" height="39" alt="LeetCode logo" />
   </a>
 </div>
 
