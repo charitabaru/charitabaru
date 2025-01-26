@@ -104,16 +104,4 @@
   <img src="https://profile-counter.glitch.me/charitabaru/count.svg?"  />
 </div>
 
-###
 
-<h3 align="left">🎵 Music</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/7e5wcbvq2o2mmt4m5tk3ko2ti">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=7e5wcbvq2o2mmt4m5tk3ko2ti&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
