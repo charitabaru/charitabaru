@@ -59,7 +59,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/charitabaru/charitabaru/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charitabaru/charitabaru/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charitabaru/charitabaru/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/charitabaru/charitabaru/output/github-snake.svg" />
+</picture>
 
 ###
 
@@ -74,7 +78,7 @@
   <a href="https://x.com/chimtiiiii" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+  <a href="mailto:vishalnetha7@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
