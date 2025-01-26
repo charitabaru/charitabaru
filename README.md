@@ -8,9 +8,15 @@
 
 <p align="left">Hi! I’m a passionate Software Developer currently pursuing my B.Tech. I enjoy exploring and mastering cutting-edge technologies to build impactful and scalable solutions. With strong problem-solving skills, I’m always eager to learn new tech stacks and take on exciting challenges. 🚀</p>
 
+<p align="left">
+  🛠️ Currently crafting a Chrome extension to optimize user experience and help save more with the best credit card offers.<br>
+  🎓 Pursuing B.Tech at BVRIT, diving deep into tech stacks and innovation.<br>
+  💻 Studying DSA in JAVA, enhancing my algorithmic thinking and problem-solving skills.<br>
+</p>
+
 ###
 
-<h3 align="left">👩‍💻 Tech Arsenal</h3>
+<h3 align="left">👩‍💻 I Code With </h3>
 
 ###
 
@@ -59,7 +65,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/charitabaru/charitabaru/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charitabaru/charitabaru/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charitabaru/charitabaru/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/charitabaru/charitabaru/output/github-snake.svg" />
+</picture>
 
 ###
 
@@ -68,16 +78,28 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/charitabaru/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/chimtiiiii" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <!-- Row for the 3 logos with a gap between them -->
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+    <a href="https://www.linkedin.com/in/charitabaru/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    </a>
+    <a href="https://x.com/chimtiiiii" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+    </a>
+    <a href="mailto:charitasrichowdary@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    </a>
+  </div>
+  
+  <!-- LeetCode logo with a gap above -->
+  <div style="margin-top: 50px; gap: 20px;">
+    <a href="https://leetcode.com/charitabaru/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-charitabaru-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" width="150 height=150" 
+ />
+    </a>
+  </div>
 </div>
+
 
 
 ###
