@@ -60,8 +60,7 @@
 ## My Stats
 
 <div align="center" style="display: flex; flex-direction: column; gap: 20px;">
-  
-  <!-- GitHub Stats -->
+
   <img src="https://github-readme-stats.vercel.app/api?username=charitabaru&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 400px;" />
   
   <!-- LeetCode Stats -->
