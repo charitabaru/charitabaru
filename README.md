@@ -59,7 +59,7 @@
 
 ## My Stats
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+<div align="center" style="display: flex; flex-direction: column; gap: 25px;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=charitabaru&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 400px;" />
   
